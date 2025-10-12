@@ -1,11 +1,3 @@
-```
-┌──────────────────────┐
-│    mollycityguard    │
-└──────────────────────┚
-```
-
----
-
 ## Обо мне
 - <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/> **JavaScript** - основной язык; люблю чистый, простой код.
 - <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/> **Node.js** - серверные утилиты и скрипты.
