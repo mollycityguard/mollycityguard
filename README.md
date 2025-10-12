@@ -18,8 +18,3 @@
 
 - **portfolio-template-page** - https://github.com/mollycityguard/portfolio-template-page  
   🌐 Минималистичный шаблон портфолио на TailwindCSS. Легко кастомизируется, сделан ради практики вёрстки и дизайна.
-
----
-
-## Контакты
-✆ Telegram: [@mollycityguard](https://t.me/mollycityguard)
